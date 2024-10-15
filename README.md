@@ -6,7 +6,7 @@ Esta aplicación muestra un mapa con la ubicación actual del usuario.
 
 - Mostrar la ubicacion actual en un mapa
 
-##Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 1. Clona el repositorio: 'git clone https://github.com/Toudopooks/SimpleGPSMapsApp.git'
 2. Abre el proyecto en Android Studio.
